@@ -1,9 +1,9 @@
 ### Hi there, I'm Yea Song 👋
 
 #### Currently  
-- 🏫 SW/EE Engineering Student at Ewha Womans University  
+- 🏫 EE/SW Engineering Student at Ewha Womans University  
 - ⚡🖥️ Double majoring in Electrical and Electronic Engineering & Software  
-- 🎨 UX/UI Designer at [Buckle](https://www.instagram.com/bucket_withus_/)  
+- 🎨 UX/UI & Product Designer at [Buckle](https://www.instagram.com/bucket_withus_/)  
 
 </br>
 
