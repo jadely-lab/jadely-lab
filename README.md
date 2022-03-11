@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on personal studies and growth as an engineer!
 - 🌱 I’m currently learning a little bit of everything :)
-- 📫 How to reach me: [email](mailto:jadely0819@ewhain.net) or [linkedin](https://www.linkedin.com/in/yea-song-han/)
+- 📫 How to reach me: [email](mailto:jadehanys@gmail.com) or [linkedin](https://www.linkedin.com/in/yea-song-han/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love baking, and giving them as gifts! My favorite things to bake are lemon and chocolate madeleines 😋
 
