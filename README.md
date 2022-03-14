@@ -16,7 +16,7 @@
 </br>
 
 [![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadely-lab)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://solved.ac/profile/jadely"><img src="http://mazandi.herokuapp.com/api?handle=jadely&theme=warm" /></a>
 
 <!--
 **jadely-lab/jadely-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
