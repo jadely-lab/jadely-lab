@@ -16,6 +16,7 @@
 </br>
 
 [![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadely-lab)](https://github.com/anuraghazra/github-readme-stats)
+My BOJ Algorithm Contributions 🌱🌲
 <a href="https://solved.ac/profile/jadely"><img src="http://mazandi.herokuapp.com/api?handle=jadely&theme=warm" /></a>
 
 <!--
